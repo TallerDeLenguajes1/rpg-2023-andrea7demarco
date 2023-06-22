@@ -38,9 +38,8 @@ namespace Personajes
      Personaje NuevoPersonaje = new Personaje();
      public string[] Tipos = {"Habilidades mágicas" , "Luchador cuerpo a cuerpo", " Poderes Sobrenaturales"
      "Asesinos", "Temática especial"};
-     public string[] Nombres = { "Sub-Zero", "Scorpion", "Johnny Cage", "Sonya Blade"
-
-     }
+     public string[] Nombres = { "Johnny Cage" , "Sonya Blade" , "Quan Chi", "Shang Tsung" , "Raiden" ,"Sub-Zero" ,
+     "Baraka", "Mileena" , "Goro" , "Cyrax"}; 
 
     }
 
