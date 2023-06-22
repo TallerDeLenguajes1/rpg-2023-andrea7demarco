@@ -1,4 +1,4 @@
-**Clasificación <<Mortal Kombat>>**
+**Clasificación **Mortal Kombat****
 
 1. Luchadores de combate cuerpo a cuerpo:
    - Artes marciales: Estos personajes son expertos en artes marciales y suelen utilizar puñetazos, patadas y movimientos acrobáticos en sus ataques.
@@ -28,3 +28,4 @@
 
 - Sub-Zero: Mencionado anteriormente, Sub-Zero es uno de los personajes más emblemáticos de Mortal Kombat. Es conocido por su habilidad para congelar a sus oponentes y crear armas de hielo.
 - Raiden: Mencionado anteriormente, Raiden es el Dios del Trueno y protector de la Tierra. Posee habilidades eléctricas y puede lanzar rayos y ataques basados en la electricidad.
+aaaaaa
