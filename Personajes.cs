@@ -62,7 +62,7 @@ namespace EspacioPersonajes
     public int CalcEdad()
     {
         var Hoy = DateTime.Now;
-        return (int)((Hoy.Subtract(fecha_nac).TotalDays)/365);
+        return (int)((Hoy.Subtract(NuevoPersonaje.Fecha_nac).TotalDays)/365);
     }
 
     public Personaje CrearPersonajeCaract()
@@ -83,25 +83,26 @@ namespace EspacioPersonajes
 
 
 
-    public class PersonajesJson 
+   /* public class PersonajesJson 
     {
         public void GuardarPersonajes(List<Personaje> personaje, string archivo)
         {
             //serializa
+            
         }
 
         public List<Personaje> LeerPersonajes(string archivo)
         {
             //desearealización
-            return listPer;
+            
         }
 
         public bool Existe(string archivo)
         {
             //verifico que exista el archivo
-            return;
+         
         }
-       }
+       }*/
 }
 
 }
